@@ -1,0 +1,77 @@
+﻿  Entry.cpp
+F:\val\Valorant Internal\Canvas.h(43,135): warning C4099: 'FLinearColor': type name first seen using 'class' now seen using 'struct'
+F:\val\Valorant Internal\unrealengine.h(91): message : see declaration of 'FLinearColor'
+F:\val\Valorant Internal\Canvas.h(71,44): warning C4099: 'FString': type name first seen using 'class' now seen using 'struct'
+F:\val\Valorant Internal\unrealengine.h(244): message : see declaration of 'FString'
+F:\val\Valorant Internal\Canvas.h(71,134): warning C4099: 'FLinearColor': type name first seen using 'class' now seen using 'struct'
+F:\val\Valorant Internal\unrealengine.h(91): message : see declaration of 'FLinearColor'
+F:\val\Valorant Internal\Canvas.h(71,182): warning C4099: 'FLinearColor': type name first seen using 'class' now seen using 'struct'
+F:\val\Valorant Internal\unrealengine.h(91): message : see declaration of 'FLinearColor'
+F:\val\Valorant Internal\Canvas.h(71,293): warning C4099: 'FLinearColor': type name first seen using 'class' now seen using 'struct'
+F:\val\Valorant Internal\unrealengine.h(91): message : see declaration of 'FLinearColor'
+F:\val\Valorant Internal\Canvas.h(1006,129): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\val\Valorant Internal\Canvas.h(1010,123): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\val\Valorant Internal\Canvas.h(1039,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\val\Valorant Internal\Canvas.h(1058,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\val\Valorant Internal\Canvas.h(1065,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\val\Valorant Internal\Canvas.h(1078,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\val\Valorant Internal\Canvas.h(1386,70): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+F:\val\Valorant Internal\Canvas.h(1753,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\val\Valorant Internal\Canvas.h(1754,121): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\val\Valorant Internal\Canvas.h(1755,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\val\Valorant Internal\Canvas.h(1756,121): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\val\Valorant Internal\decryption.h(285,1): warning C4005: 'LOBYTE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(206): message : see previous definition of 'LOBYTE'
+F:\val\Valorant Internal\decryption.h(286,1): warning C4005: 'LOWORD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(204): message : see previous definition of 'LOWORD'
+F:\val\Valorant Internal\decryption.h(288,1): warning C4005: 'HIBYTE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(207): message : see previous definition of 'HIBYTE'
+F:\val\Valorant Internal\decryption.h(289,1): warning C4005: 'HIWORD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(205): message : see previous definition of 'HIWORD'
+F:\val\Valorant Internal\decryption.h(595,12): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+F:\val\Valorant Internal\decryption.h(600,11): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+F:\val\Valorant Internal\decryption.h(603,13): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+F:\val\Valorant Internal\Entry.cpp(18,126): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\val\Valorant Internal\Entry.cpp(22,126): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\val\Valorant Internal\Entry.cpp(27,117): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\val\Valorant Internal\Entry.cpp(389,119): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\val\Valorant Internal\Entry.cpp(389,111): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\val\Valorant Internal\Entry.cpp(556,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\val\Valorant Internal\Entry.cpp(756,41): warning C4244: 'argument': conversion from 'uintptr_t' to 'const uint32_t', possible loss of data
+F:\val\Valorant Internal\Entry.cpp(768,110): warning C4244: 'return': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\xstring(2824,53): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\xstring(2664): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*>(_Iter,const _Iter)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\xstring(2664): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*>(_Iter,const _Iter)' being compiled
+          with
+          [
+              _Iter=wchar_t *
+          ]
+F:\val\Valorant Internal\Decryptor.h(207): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+F:\val\Valorant Internal\Decryptor.h(207): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  FNamePool.h
+     Creating library F:\val\Valorant Internal\x64\Release\internal.lib and object F:\val\Valorant Internal\x64\Release\internal.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 241 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  internal.vcxproj -> F:\val\Valorant Internal\x64\Release\internal.dll
